@@ -2,13 +2,8 @@
 
 Project in Action - [Jobster](https://redux-toolkit-jobster.netlify.app/)
 
-#### React Course
 
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
 
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
 
 #### Run The App Locally
 
@@ -53,24 +48,6 @@ npx create-react-app@latest myApp
 
 #### 3) Normalize.css and Global Styles
 
-- CSS in JS (styled-components)
-- saves times on the setup
-- less lines of css
-- speeds up the development
-- normalize.css
-- small CSS file that provides cross-browser consistency in the default styling of HTML elements.
-- [normalize docs](https://necolas.github.io/normalize.css/)
-
-```sh
-npm install normalize.css
-```
-
-- import 'normalize.css' in index.js
-- SET BEFORE 'index.css'
-- replace contents of index.css
-- if any questions about normalize or specific styles
-- Coding Addict - [Default Starter Video](https://youtu.be/UDdyGNlQK5w)
-- Repo - [Default Starter Repo](https://github.com/john-smilga/default-starter)
 
 #### 4) Landing Page - Setup
 
@@ -126,8 +103,7 @@ export default Landing;
 - have logic and styles in component
 - no name collisions
 - apply javascript logic
-- [Styled Components Docs](https://styled-components.com/)
-- [Styled Components Course](https://www.udemy.com/course/styled-components-tutorial-and-project-course/?referralCode=9DABB172FCB2625B663F)
+
 
 ```sh
 npm install styled-components
